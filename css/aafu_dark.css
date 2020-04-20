@@ -1,0 +1,18 @@
+/* :root {
+  --primaryBg: #2c2b2b;
+  --primaryText: white;
+  --primaryLinks: #ffc107;
+  --secondaryBg: #373737;
+  --secondaryText: white;
+  --secondaryLinks: #ffc107;
+  --shadow: black;
+} */
+:root {
+  --primaryBg: #050505;
+  --primaryText: white;
+  --primaryLinks: #ffc107;
+  --secondaryBg: #080707;
+  --secondaryText: white;
+  --secondaryLinks: #ffc107;
+  --shadow: black;
+}
